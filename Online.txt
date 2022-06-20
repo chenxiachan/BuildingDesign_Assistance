@@ -1,0 +1,2 @@
+https://share.streamlit.io/chatchan92/ma_deployment/streamlit_BIM_AS.py
+ streamlit run '.\streamlit_BIM_AS.py'
